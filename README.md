@@ -7,3 +7,4 @@ Blocks empty and ellipsis-only replies.
 让机器人不再发出没有意义的消息。
 Keeps the bot from sending meaningless output.
 # astrbot_speak-tight
+有问题去q：1044753944
